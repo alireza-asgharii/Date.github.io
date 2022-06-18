@@ -15,11 +15,11 @@
 
 .container h3 {
   color: #EEEEEE;
-  font-size: 4rem;
+  font-size: 11vw;
   letter-spacing: 5px;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 1200px) {
   .container h3 {
     font-size: 12rem;
   }
